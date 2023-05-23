@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+
+<html lang="en"> 
+  
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<meta name="description" content="Deebo">
+<meta name="author" content="Frenify">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<title>Portfolio</title>
+
+<!-- Google Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet" />
+<!-- /Google Fonts -->
+
+<!-- Styles -->
+<link type="text/css" rel="stylesheet" href="css/base.css?ver=4" />
+<link type="text/css" rel="stylesheet" href="css/magnific.css?ver=4" />
+<link type="text/css" rel="stylesheet" href="css/animated-headlines.css?ver=4" />
+<link type="text/css" rel="stylesheet" href="css/style.css?ver=4" />
+
+
+</head>
+
+<body class="light">
+
+<div class="deebo_fn_main">
+	
+	<!-- Overlay -->
+	<div class="right_bar_overlay"></div>
+	<!--/ Overlay -->
+
+	<!-- MODALBOX -->
+	<div class="deebo_fn_modalbox">
+		<a class="extra_closer" href="#"></a>
+		<div class="box_inner">
+			<a class="closer" href="#"><span></span></a>
+			<div class="modal_content">
+
+				<div class="modal_in">
+					<!-- Content comes from JS -->
+				</div>
+
+				<div class="fn__nav" data-from="" data-index="">
+					<a href="#" class="prev">
+						<span class="text">Prev</span>
+						<span class="arrow_wrapper"><span class="arrow"></span></span>
+					</a>
+					<a href="#" class="next">
+						<span class="text">Next</span>
+						<span class="arrow_wrapper"><span class="arrow"></span></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- /MODALBOX --> 
+
+	<!-- Overlay -->
+	<div class="right_bar_overlay"></div>
+	<!--/ Overlay -->
+
+	<!-- MODALBOX -->
+	<div class="deebo_fn_modalbox">
+		<a class="extra_closer" href="#"></a>
+		<div class="box_inner">
+			<a class="closer" href="#"><span></span></a>
+			<div class="modal_content">
+
+				<div class="modal_in">
+					<!-- Content comes from JS -->
+				</div>
+
+				<div class="fn__nav" data-from="" data-index="">
+					<a href="#" class="prev">
+						<span class="text">Prev</span>
+						<span class="arrow_wrapper"><span class="arrow"></span></span>
+					</a>
+					<a href="#" class="next">
+						<span class="text">Next</span>
+						<span class="arrow_wrapper"><span class="arrow"></span></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="deebo_fn_cv">
+
+		
+		<div class="deebo_fn__cv">
+
+			
+			<div class="cv__bg"></div>
+			<div class="cv__bg2"></div>
+			
+			<div class="cv__header">
+				<div class="in">
+					<h3><span>Prafful</span>Kumar</h3>
+					<p class="quote">To obtain a challenging position with career growth opportunities in the area of Software 0Development and to be associated with a progressive organization that gives me scope to exhibit and enhance my knowledge and skills.
+
+<ul class="contact_info">
+						<li>
+							<span class="icon"><img src="svg/location.svg" alt="" class="fn__svg"></span>
+							<p>Bidyanagar,Mahura,Bhubaneswar,Odisha (752054)</p>
+						</li>
+						<li>
+							<span class="icon"><img src="svg/call.svg" alt="" class="fn__svg"></span>
+							<p>(+91) 7372803658</p>
+						</li>
+						<li>
+							<span class="icon"><img src="svg/message.svg" alt="" class="fn__svg"></span>
+							<p>praffulkumarbkj2001@gmail.com</p>
+						</li>
+					</ul>
+					<ul class="social">
+						<li>
+							<a href="https://twitter.com/Prafful95240465" target="_blank" title="twitter.com">
+								<img class="fn__svg" src="svg/twitter.svg" alt="twitter.com" />
+							</a>
+						</li>
+						<li>
+							<a href="https://www.facebook.com/praffulsingh.azence/" target="_blank" title="facebook.com">
+								<img class="fn__svg" src="svg/facebook-logo.svg" alt="facebook.com" />
+							</a>
+						</li>
+						<li>
+							<a href="https://www.instagram.com/pk7372singh/" target="_blank" title="instagram.com">
+								<img class="fn__svg" src="svg/instagram.svg" alt="instagram.com" />
+							</a>
+						</li>
+						
+						
+					</ul>
+				</div>
+			</div>
+			
+			<div class="cv__content">
+				<section id="hero-header" class="section_header">
+                    <div style="width: 100%; height: 90px; padding-left: 67%; margin-top: -10%">
+                             <img src="download.png">
+                        </div>
+					<div class="content">
+						<div class="left_hero_header">
+							<div class="circle">
+								<div class="bg_img" data-bg-img="img/header/4.jpg"></div>
+								<img src="img/thumb/square.jpg" alt="" />
+								<div class="circle_holder_blue"><span></span></div>
+								<div class="circle_holder_orange"><span></span></div>
+								<div class="lines">
+									<span></span>
+									<span></span>
+									<span></span>
+								</div>
+							</div>
+						</div>
+						<div class="right_hero_header">
+							<div class="my_self">
+								<h4>Hello! I'm a</h4>
+								<h2>
+									<!-- It is animation title. You can change animation variation by changing extra class to one of next classes: zoom, rotate-1, letters type, letters rotate-2, loading-bar, slide, clip, letters rotate-3, letters scale, push. cd-headline class can not be removed.  -->
+									<span class="cd-headline clip">
+										<span class="cd-words-wrapper">
+										  <b class="is-visible">Fresher</b>
+                                        </span>
+									</span>
+								</h2>
+                               
+							</div>
+						</div>  
+					</div>
+                     
+				</section>
+				
+				<section id="cv_biography">
+					<div class="section_title">
+						<h3>Biography</h3>
+					</div>
+					<div class="fn_cs_info_items">
+						<ul>
+							<li><p>Name: <span>Prafful Kumar</span></p></li>
+							<li><p>Birthday: <span>Sep 09, 2001</span></p></li>
+							<li><p>Languages: <span>English,  Hindi</span></p></li>
+							<li><p>Age: <span>21 Years</span></p></li>
+							<li><p>Nationality: <span>Indian</span></p></li>
+							<li><p>Adress: <span>Bhubaneswar</span></p></li>
+							<li><p>Telegram: <span>Available</span></p></li>
+							<li><p>Phone: <span><a href="tel:+91 7372803658">(+91) 7372803658</a></span></p></li>
+						
+							<li><p>Email: <span><a href="mailto:praffkumarbkj2001@gmail.com
+							">praffulkumarbkj2001@gmail.com
+							</a></span></p></li>
+						</ul>
+					</div>
+				</section>
+				
+				<section id="cv_education">
+					<div class="section_title">
+						<h3>Education</h3>
+					</div>
+					<div class="fn_cs_boxed_list">
+						<ul>
+							<li>
+								<div class="item">
+									<div class="item_top">
+										<h5>C.V Raman Global University</h5>
+										<span>( 2019 — 2023 )</span>
+									</div>
+									<h3>Computer Science</h3>
+								</div>
+							</li>
+							<li>
+								<div class="item">
+									<div class="item_top">
+										<h5>	Intermediate</h5>
+										<span>( 2017 - 2019 )</span>
+									</div>
+									<h3>Higher Secondary</h3>
+								</div>
+							</li>
+							<li>
+								<div class="item">
+									<div class="item_top">
+										<h5>Matriculation</h5>
+										<span>( 20015 - 2016 )</span>
+									</div>
+									<h3>Secondary School</h3>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</section>
+				
+				<section id="cv_experience">
+					<div class="section_title">
+						<h3>Projects</h3>
+					</div>
+					<div class="fn_cs_boxed_list">
+						<ul>
+							<li>
+								<div class="item">
+									<div class="item_top">
+										<h5>STOCK MARKET FORECASTING (02/2022 - 05/2023)</h5>
+									</div>
+									<h3>Team Lead</h3>
+									<p>
+									Built ML model for Stock Prediction.<br>Hybrid techniques used for the enhancements of  performance in prediction models. <br>
+Algorithms used: RNN, LSTM, GRU.<br>
+
+
+								</div>
+							</li>
+						</ul>
+					</div>
+				</section>
+				
+				
+
+
+				<!-- CV: Skills-->
+				<section id="cv_skills">
+					<div class="section_title">
+						<h3>Technical Skills</h3>
+					</div>
+					<div class="fn_cs_progress_bar">
+						<div class="progress_item" data-value="90">
+							<div class="item_in">
+								<h3 class="progress_title">C++</h3>
+								<span class="progress_percent"></span>
+								<div class="progress_bg"></div>
+							</div>
+						</div>
+
+						<div class="progress_item" data-value="90">
+							<div class="item_in">
+								<h3 class="progress_title">HTML5 &amp; CSS</h3>
+								<span class="progress_percent"></span>
+								<div class="progress_bg"></div>
+							</div>
+						</div>
+
+						<div class="progress_item" data-value="80">
+							<div class="item_in">
+								<h3 class="progress_title">SQL</h3>
+								<span class="progress_percent"></span>
+								<div class="progress_bg"></div>
+							</div>
+						</div>
+
+						<div class="progress_item" data-value="60">
+							<div class="item_in">
+								<h3 class="progress_title">Python</h3>
+								<span class="progress_percent"></span>
+								<div class="progress_bg"></div>
+							</div>
+							</div>
+							
+							
+							<div class="progress_item" data-value="50">
+							<div class="item_in">
+								<h3 class="progress_title">Machine Learning 40</h3>
+								<span class="progress_percent"></span>
+								<div class="progress_bg"></div>
+							</div>
+						</div>
+
+					</div>
+				</section>
+
+
+			</div>
+			
+
+		</div>
+		
+	</div>
+	
+</div>
+<!-- Scripts -->
+<script type="text/javascript" src="js/jquery.js?ver=4"></script>
+<script type="text/javascript" src="js/isotope.js"></script>
+<script type="text/javascript" src="js/magnific.js"></script>
+<script type="text/javascript" src="js/animated-headlines.js?ver=4"></script>
+<script type="text/javascript" src="js/waypoints.js?ver=4"></script>
+
+<script type="text/javascript" src="js/init.js?ver=4"></script>
+
+<style>
+#kn{
+margin-top:0px;
+}
+</style>
+   
+</body>
+</html>
